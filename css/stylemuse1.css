@@ -158,9 +158,9 @@
 	.blok__image-is::before {
   content: '';
   position: absolute;
-	  top: 222px;
+	  top: -39px;
     left: 0px;
-    width: 356px;
+    width: 362px;
     height: 65px;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0.97%,rgba(0, 0, 0, 0) 99.127%);
     z-index: 1;
@@ -1606,4 +1606,200 @@ label{
 		width: 359px;
 	}
 }
-@media (max-width: 360px){}
+@media (max-width: 360px){
+	.secti__kout-1{
+		margin-left: 9px;
+	}
+	.secti__kout-3{
+		padding-right: 80px;
+		max-width: 180px;
+	}
+	.secti__kout-2 h2{
+		font-size: 35px;
+	}
+	.secti__kout-1 img {
+    max-width: 150px;
+    /* left: 107px; */
+}
+.secti__kout-3 img {
+    max-width: 150px;
+    top: -396px;
+    left: -81px;
+}
+	.kout__secti{
+		flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+	}
+	.secti__kout-2{
+		margin: 34px 41px;
+		padding: 0;
+	}
+	.section__secti-kout4{
+		left: 122px;
+    top: 1100px;
+	}
+	.secti__kout-2 p{
+		font-size: 20px;
+	}
+	.blask__blask-blaskout{
+		gap: 30px;
+		flex-direction: column;
+	}
+	.blask__blask{
+		max-width: 768px;
+		padding: 20px;
+	}
+	.blask__blask-1 {
+    display: flex;
+    gap: 15px;
+}
+	.Blackout--ut p{
+		font-size: 18px;
+		padding: 47px 77px;
+    margin-left: -20px;
+	}
+	.branded__branded{
+		flex-direction: column;
+	}
+	.Blackout__ut1{
+		background: url('../img/Museum/Branded/Group001.png') no-repeat;
+		height: 139px;
+	}
+	.Blackout__ut2{
+		background: url('../img/Museum/Branded/Group002.png') no-repeat;
+		height: 139px;
+	}
+	.Blackout__ut3{
+		background: url('../img/Museum/Branded/Group003.png') no-repeat;
+		height: 139px;
+	}
+	.Blackout{
+		flex-direction: column;
+	}
+	.section__Branded{
+		flex-direction: column;
+		text-align: center;
+		gap: 10px;
+		
+	}
+	.kit{
+    flex-direction: column;
+		gap: 10px;
+	}
+	.kitchens__Blac{
+		display: flex;
+		flex-direction: row;
+	}
+	.Blackout__ko {
+		padding-right: 0;
+	}
+	.Branded__bra p{
+		font-size: 16px;
+	}
+	.Branded__bra img{
+		max-width: 329px;
+    height: 300px;
+	}
+	.bra__branded-bra img{
+		max-width: 329px;
+    height: 300px;
+	}
+	.bra-bra__branded img{
+		max-width: 329px;
+    height: 300px;
+	}
+	.bra-1{}
+	.bra-2{}
+	.cook{
+		padding-top: 20px;
+	}
+	.cafe__promo img {
+		max-width: 282px;
+		left: 45px;
+	}
+	.cafe__promo-cafe img {
+		max-width: 282px;
+    right: 35px;
+    padding-top: 313px;
+	}
+	.cafe__promo p{
+		left: 47px;
+    top: 284px;
+    font-size: 16px;
+		width: 263px;
+	}
+	.news__container {
+    max-width: 945px;
+    padding-top: 290px;
+}
+	.cafe__promo-cafe p{
+		top: 617px;
+    left: 23px;
+    font-size: 16px;
+    width: 263px;
+	}
+	.blokss__blo--blokss{
+		gap: 20px;
+	}
+	.cities__blokss-gj {
+		width: 324px;
+		flex-direction: column;
+		align-items: center;
+	}
+	.blokss-1 {
+		width: 341px;
+	}
+	.blokss-2{
+		width: 359px;
+	}
+	.Getting{
+		margin-top: 160px;
+	}
+	.blask__blask-blaskout {
+		margin-top: -171px;
+	}
+	.Blackout__bla{
+		grid-template-columns: repeat(2 , 1fr);
+    display: grid;
+    gap: 5px;
+		text-align: center;
+	}
+	.Blackout__blas img{
+		padding: 0;
+	}
+	.Blackout__Blackout-cko{
+		flex-direction: column;
+	}
+	.Blackout__Blackout-kout{
+		margin: 10px 0 0 0;
+		padding: 10px 0 5px 20px;
+		display: flex;
+		gap: 15px;
+		align-items: center;
+		font-family: "Oswald",sans-serif;
+    font-weight: 500;
+		font-size: 18px;
+		line-height: 27px;
+	}
+	.promo--agency .promo__img {
+    max-width: 370px;
+    height: 322px;
+	}
+	.cities__blokss-cities{
+		flex-direction: column;
+		align-items: center;
+    text-align: center;
+	}
+	.cities__cities-blokss {
+    flex-direction: column;
+		gap: 10px;
+  }
+	.blokss__blo{
+		padding: 34px 0;
+	}
+	.content__blot{
+		padding: 0;
+	}
+}
+
