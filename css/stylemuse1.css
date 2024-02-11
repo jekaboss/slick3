@@ -1423,7 +1423,11 @@ label{
 		margin-left: -100px;
 	}
 	.secti__kout-3{
-		padding-right: 200px;
+		padding-right: 80px;
+		z-index: -5;
+	}
+	.section__secti-kout3 {
+		left: -71px;
 	}
 	.secti__kout-2 h2{
 		font-size: 42px;
