@@ -71,7 +71,7 @@
 	font-family: "Source Sans 3",sans-serif;
   font-weight: 400;
 	font-size: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 90px;
 }
 @media (max-width: 1280px){
 	.section__blok{
@@ -304,10 +304,10 @@
   justify-content: center;
 }
 .blokss-1{
-	width: 270px;
+	width: 400px;
 }
 .blokss-2{
-	width: 420px;
+	width: 614px;
 }
 
 
@@ -560,7 +560,7 @@ label{
 	/* grid-auto-flow: column; */
 	grid-template-columns: 1fr 1fr 1fr;
 	gap: 20px;
-	padding: 0 0 50px 0;
+	padding: 0 0 80px 0;
 }
 .tatle{
 	display: flex;
@@ -940,6 +940,7 @@ label{
 .cook{
 	display: flex;
 	gap: 20px;
+	padding-top: 20px;
 }
 .info-promo{
 	flex-direction: column;
@@ -1189,7 +1190,7 @@ label{
 .cafe__promo-cafe{}
 .cafe__promo-cafe img{
 	position: absolute;
-	right: 255px;
+	right: 51px;
 	margin-top: -137px;
 }
 .cafe__promo-cafe p{
@@ -1378,7 +1379,9 @@ label{
 }
 
 .secti__kout-1{}
-.secti__kout-1 img{}
+.secti__kout-1 img{
+	    width: 200px;
+}
 .section__secti-kout1{
 	position: relative;
 	z-index: -1;
@@ -1390,7 +1393,7 @@ label{
 
 .secti__kout-2{
 	max-width: 855px;
-	padding: 76px 76px;
+	padding: 30px 55px;
 	margin-left: 150px;
 }
 .secti__kout-2 h2{
@@ -1408,7 +1411,9 @@ label{
 .secti__kout-3{
 	padding-right: 200px;
 }
-.secti__kout-3 img{}
+.secti__kout-3 img{
+	    width: 200px;
+}
 .section__secti-kout3{
 	position: relative;
 	z-index: -1;
@@ -1427,7 +1432,7 @@ label{
 		margin-left: -100px;
 	}
 	.section__secti-kout4{
-		margin-left: -188px;
+		margin-left: -147px;
 	}
 	.secti__kout-3{
 		padding-right: 80px;
@@ -1444,6 +1449,7 @@ label{
 	}
 	.blask__blask-blaskout{
 		gap: 30px;
+		padding-top: 30px;
 	}
 	.blask__blask{
 		max-width: 300px;
