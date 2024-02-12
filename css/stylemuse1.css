@@ -434,7 +434,7 @@ label{
 .blokss__blo{
 	display: flex;
 	gap: 30px;
-	padding: 100px 0;
+	padding: 100px 200px;
 }
 
 .blokss-gj__cities{
@@ -1174,6 +1174,7 @@ label{
 .cafe__promo{}
 .cafe__promo img{
 	position: absolute;
+	width: 450px;
 }
 .cafe__promo p{
 	position: relative;
@@ -1182,7 +1183,7 @@ label{
 	font-size: 20px;
 	background-color: #1b1b1b;
 	max-width: 300px;
-	left: 427px;
+	left: 347px;
 	text-align: end;
 	padding: 15px;
 }
@@ -1192,6 +1193,7 @@ label{
 	position: absolute;
 	right: 51px;
 	margin-top: -137px;
+	width: 450px;
 }
 .cafe__promo-cafe p{
 	position: relative;
@@ -1200,9 +1202,9 @@ label{
 	font-size: 20px;
 	background-color: #1b1b1b;
 	max-width: 300px;
-	top: 279px;
+	top: 180px;
   text-align: left;
-  left: 680px;
+  left: 564px;
 	padding: 15px;
 }
 
