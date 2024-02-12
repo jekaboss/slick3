@@ -1163,7 +1163,7 @@ label{
 		font-size: 14px;
 	}
 	.swiper-wrapper{
-		flex-direction: column;
+/* 		flex-direction: column; */
 	}
 }
 
@@ -1825,7 +1825,9 @@ label{
 }
 
 @media (max-width: 450px){
-	
+	.blokss__cities{
+		    margin: 20px;
+	}
 	.blok__image-is img, .blok__image img {
 		margin-left: 500px;
 	}
