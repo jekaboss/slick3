@@ -30,7 +30,7 @@
 	top: -18px;
   left: 335px;
   width: 65px;
-  height: 247px;
+  height: 325px;
   background: linear-gradient(-90.00deg, rgb(0, 0, 0) 0.97%,rgba(0, 0, 0, 0) 99.127%);
   z-index: 1;
 }
@@ -40,7 +40,7 @@
 	top: -18px;
   left: -2px;
   width: 65px;
-  height: 247px;
+  height: 325px;
   background: linear-gradient(90.00deg, rgb(0, 0, 0) 0.97%,rgba(0, 0, 0, 0) 99.127%);
   z-index: 1;
 }
@@ -1394,7 +1394,7 @@ label{
 .secti__kout-2{
 	max-width: 855px;
 	padding: 30px 55px;
-	margin-left: 150px;
+	margin-left: 122px;
 }
 .secti__kout-2 h2{
 	font-family: "Oswald",sans-serif;
@@ -1413,6 +1413,7 @@ label{
 }
 .secti__kout-3 img{
 	    width: 200px;
+	margin-right: -56px;
 }
 .section__secti-kout3{
 	position: relative;
@@ -1420,7 +1421,7 @@ label{
 }
 .section__secti-kout4{
 	position: absolute;
-	margin-left: -60px;
+	margin-left: -13px;
 }
 
 /* =================== */
@@ -1429,7 +1430,7 @@ label{
 		height: 330px;
 	}
 	.secti__kout-1{
-		margin-left: -100px;
+		margin-left: 24px;
 	}
 	.section__secti-kout4{
 		margin-left: -147px;
