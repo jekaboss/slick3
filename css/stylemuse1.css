@@ -1832,7 +1832,7 @@ label{
 }
 
 @media (max-width: 450px){
-	.blok-img__is{}
+	.blok-img__is img{}
 	.blokss__cities{
 		    margin: 20px;
 	}
