@@ -1624,6 +1624,12 @@ label{
 	}
 }
 @media (max-width: 360px){
+	.cities__blokss-gj {
+/* 		margin-left: 52px; */
+		width: 324px;
+		flex-direction: column;
+		align-items: center;
+	}
 	.secti__kout-1{
 		margin-left: 9px;
 	}
@@ -1975,7 +1981,7 @@ label{
 		gap: 20px;
 	}
 	.cities__blokss-gj {
-/* 		margin-left: 52px; */
+		margin-left: 52px;
 		width: 324px;
 		flex-direction: column;
 		align-items: center;
