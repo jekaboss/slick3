@@ -1832,7 +1832,7 @@ label{
 }
 
 @media (max-width: 450px){
-	.blok-img__is img{
+	.blok-img__is{
 	     margin-top: -29px;
              margin-left: -500px;
              width: 405px;
