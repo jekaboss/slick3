@@ -1832,6 +1832,9 @@ label{
 }
 
 @media (max-width: 450px){
+	.bra-img__bra{
+		    margin-left: 500px;
+	}
 	.blok-img__is{
 	     margin-left: -500px;
               margin-top: -45px;
@@ -2050,9 +2053,7 @@ label{
     flex-direction: column;
 		gap: 10px;
   }
-	.bra-img__bra{
-		padding: 5px;
-	}
+	
 	.blokss__blo{
 		padding: 1px 0;
 	}
