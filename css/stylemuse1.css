@@ -1841,6 +1841,17 @@ label{
 	}
 	.blok__image-is img, .blok__image img {
 		margin-left: 500px;
+		    height: 280px;
+	}
+	.blok__image-is img::before {
+    content: '';
+    position: absolute;
+	  top: -18px;
+    left: -200px;
+    width: 0px;
+    height: 0px;
+    background: linear-gradient(0.00deg, rgb(0, 0, 0) 0.97%,rgba(0, 0, 0, 0) 99.127%);
+    z-index: -10;
 	}
 	.secti__kout-1{
 		margin-left: 9px;
