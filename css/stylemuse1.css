@@ -1843,7 +1843,7 @@ label{
 		margin-left: 500px;
 		    height: 280px;
 	}
-	.blok__image-is img::before {
+	.blok__img-is img::before {
     content: '';
     position: absolute;
 	  top: -18px;
