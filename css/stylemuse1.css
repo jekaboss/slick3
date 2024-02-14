@@ -2050,6 +2050,9 @@ label{
     flex-direction: column;
 		gap: 10px;
   }
+	.bra-img__bra{
+		padding: 5px;
+	}
 	.blokss__blo{
 		padding: 1px 0;
 	}
