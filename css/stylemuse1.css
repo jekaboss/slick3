@@ -26,6 +26,7 @@
 }
 .form__con-con{
 	width: 1000px;
+	margin-left: 250px;
 }
 .blok__image-is::before{
 	content: '';
@@ -359,14 +360,21 @@
   margin-bottom: 5px;
 }
 .my-info{
-	max-width: 205px;
+	    max-width: 560px;
+    display: flex;
+    height: 64px;
+    /* align-items: stretch; */
+    /* text-align: center; */
+    margin-left: 150px;
+    /* justify-content: flex-end; */
+    gap: 40px;
 }
 .form-my-info__checkbox{
 	padding-bottom: 20px;
 	text-align: center;
 }
 .form-group input {
-  width: 545px;
+  width: 469px;
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
