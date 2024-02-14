@@ -360,14 +360,14 @@
   margin-bottom: 5px;
 }
 .my-info{
-	    max-width: 560px;
-    display: flex;
-    height: 64px;
+	    max-width: 278px;
+/*     display: flex;
+    height: 64px; */
     /* align-items: stretch; */
     /* text-align: center; */
-    margin-left: 150px;
+/*     margin-left: 150px; */
     /* justify-content: flex-end; */
-    gap: 40px;
+/*     gap: 40px; */
 }
 .form-my-info__checkbox{
 	padding-bottom: 20px;
