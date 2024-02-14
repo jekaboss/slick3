@@ -24,6 +24,9 @@
 	position: relative;
   display: inline-block;
 }
+.form__con-con{
+	width: 1000px;
+}
 .blok__image-is::before{
 	content: '';
   position: absolute;
